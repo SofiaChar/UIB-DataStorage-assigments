@@ -1,0 +1,23 @@
+<group>
+    <subject>
+        <title>ERD</title>
+        <professors>
+            <name>Jaume</name>
+            <name>Belen</name>
+        </professors>
+        <students>
+            <student>
+                <name>Ikram</name>
+            </student>
+            <student>
+                <name>Sofiia</name>
+            </student>
+            <student>
+                <name>Amelia</name>
+            </student>
+            <student>
+                <name>Javi</name>
+            </student>
+        </students>
+    </subject>
+</group>

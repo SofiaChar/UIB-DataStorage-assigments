@@ -1,0 +1,26 @@
+{
+  "group": {
+    "subject": {
+      "title": "ERD",
+      "professors": {
+        "name": "Jaume"
+      },
+      "students": {
+        "student": [
+          {
+            "name": "Ikram",
+            "surname": "Haq"
+          },
+          {
+            "name": "Sofiia",
+            "surname": "Charnota"
+          },
+          {
+            "name": "Amelia",
+            "surname": "Yolanda"
+          }
+        ]
+      }
+    }
+  }
+}

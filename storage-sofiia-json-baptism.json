@@ -1,0 +1,23 @@
+
+{
+  "people": {
+
+      "person": {
+          "birthdate": "04/11/1775",
+          "gender": "Daughter",
+          "father": "Miguel Llobera",
+          "grandfather": "Miguel",
+          "grandmother": "Coloma Pascual",
+          "clergyman": "Joan"
+        },
+
+        "person":{
+          "birthdate": "04/11/1775",
+          "gender": "Son",
+          "father": "Antonio Balle",
+          "grandfather": "Vicente",
+          "grandmother": "Margarita Gual",
+          "clergyman": "Joan"
+        }
+  }
+}

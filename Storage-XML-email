@@ -1,0 +1,20 @@
+XML email
+
+<?xml … >
+<emails>
+	<email>
+		<importance_tag>True</importance_tag>
+		<receivers>
+			<receiver_name>Sofiia Charnota</receiver_name>
+			<receiver_email>Sofiia.Charnota@gmail.com</receiver_email>
+		</receivers> 		<sender_name>Carlos Dou</sender_name>
+		<sender_email>Carlos.Dou@apple.com</sender_email>
+
+		<title>Work contract</title>
+		<daytime>12.09.2023 10:20</daytime>
+		<content>Hello! I wanted to tell you that you are hired for the position.</content>
+		<links>www.docs.com</links>
+		<files_attached>Contract.pdf</files_attached>
+		<encryption_type>TSL</encryption_type>
+	</email>
+</emails>

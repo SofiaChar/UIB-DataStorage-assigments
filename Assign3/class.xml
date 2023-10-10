@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+    <subject>
+        <title>ERD</title>
+        <professors>
+            <name>Jaume</name>
+        </professors>
+        <students>
+            <student>
+                <name>Ikram</name>
+                <surname>Haq</surname>
+            </student>
+            <student>
+                <name>Sofiia</name>
+                <surname>Charnota</surname>
+
+            </student>
+            <student>
+                <name>Amelia</name>
+                <surname>Yolanda</surname>
+            </student>
+        </students>
+    </subject>
+</group>
